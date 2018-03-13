@@ -1,5 +1,5 @@
 /**
- * Created by championswimmer on 25/06/17.
+ code for javascript
  */
 
 let todoList = [];
