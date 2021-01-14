@@ -10,10 +10,10 @@ let todoListElement = null;
  */
 window.onload = function () {
 
-    let btnAdd = document.getElementById('btn-add-todo');
-    let btnClean = document.getElementById('btn-clear-done');
-    let inputNewTodo = document.getElementById('input-new-todo');
-    todoListElement = document.getElementById('list-todos');
+    let btnAdd = document.getElementById('btn_add_todo');
+    let btnClean = document.getElementById('btn_clear_done');
+    let inputNewTodo = document.getElementById('input_new_todo');
+    todoListElement = document.getElementById('list_todos');
 
     showTodos(todoListElement);
 
